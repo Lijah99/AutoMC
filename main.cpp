@@ -70,7 +70,7 @@ static void startclicker()
 static void init()
 {
 	clicking = false;
-	system("TITLE Mouse Clicker by sandaasu");
+	system("TITLE Mouse Clicker");
 	cout << "======================================================" << endl;
 	cout << "[ HOTKEYS ]" << endl << endl;
 	cout << "NumPad1 = save mouse position" << endl;
